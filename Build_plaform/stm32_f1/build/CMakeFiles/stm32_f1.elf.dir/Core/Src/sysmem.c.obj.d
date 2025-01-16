@@ -1,0 +1,20 @@
+CMakeFiles/stm32_f1.elf.dir/Core/Src/sysmem.c.obj: \
+ /home/ilia/Projects/tmc2209_driver/Build_plaform/stm32_f1/Core/Src/sysmem.c \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/errno.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/errno.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/reent.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/_ansi.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/newlib.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/_newlib_version.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/config.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/ieeefp.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/features.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/lib/gcc/arm-none-eabi/12.3.1/include/stddef.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_types.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/_types.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/_default_types.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/lock.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/lib/gcc/arm-none-eabi/12.3.1/include/stdint.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/stdint.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_intsup.h \
+ /home/ilia/st/stm32cubeclt_1.16.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_stdint.h
