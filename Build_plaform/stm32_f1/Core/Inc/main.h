@@ -59,12 +59,22 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define TMC_STEP_Pin GPIO_PIN_0
-#define TMC_STEP_GPIO_Port GPIOA
-#define TMC_EN_Pin GPIO_PIN_1
-#define TMC_EN_GPIO_Port GPIOA
-#define TMC_DIR_Pin GPIO_PIN_2
-#define TMC_DIR_GPIO_Port GPIOA
+#define TMC1_STEP_Pin GPIO_PIN_0
+#define TMC1_STEP_GPIO_Port GPIOA
+#define TMC1_EN_Pin GPIO_PIN_1
+#define TMC1_EN_GPIO_Port GPIOA
+#define TMC1_DIR_Pin GPIO_PIN_2
+#define TMC1_DIR_GPIO_Port GPIOA
+#define TMC2_DIR_Pin GPIO_PIN_4
+#define TMC2_DIR_GPIO_Port GPIOA
+#define TMC2_EN_Pin GPIO_PIN_5
+#define TMC2_EN_GPIO_Port GPIOA
+#define TMC2_STEP_Pin GPIO_PIN_6
+#define TMC2_STEP_GPIO_Port GPIOA
+#define TMC_MS1_Pin GPIO_PIN_0
+#define TMC_MS1_GPIO_Port GPIOB
+#define TMC_MS2_Pin GPIO_PIN_1
+#define TMC_MS2_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
